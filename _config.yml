@@ -1,8 +1,8 @@
 # Site settings 配置站点
 title: '赵连睿的独立博客'
 description: '很高兴能在这里与你分享.'
-keyword: '赵连睿, 赵连睿的独立博客, 赵连睿的博客, 后端, 后端开发, python, c++, javascript, d3.js, 设计'
-url: 'http://liaokeyu.com' # your host
+keyword: '赵连睿, 赵连睿的独立博客, 赵连睿的博客, python, c++, javascript, d3.js, 数据可视化, data visualization, 机器学习, Machine Learning'
+url: 'https://zhaolianrui.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -25,8 +25,8 @@ search: true
 nightMode: true
 
 # Comments
-disqus: false
-disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+#disqus: false
+#disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # Share
 social-share: true
